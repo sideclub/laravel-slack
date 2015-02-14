@@ -1,0 +1,21 @@
+{
+    "name": "sideclub/slack",
+    "description": "Slack wrapper API for Laravel 4",
+    "authors": [
+        {
+            "name": "Sideclub",
+            "email": "hello@sideclub.co"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "threadmeup/slack-sdk": "1.1.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sideclub\\Slack": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
