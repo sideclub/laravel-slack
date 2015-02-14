@@ -1,6 +1,8 @@
 {
-    "name": "sideclub/slack",
+    "name": "sideclub/laravel-slack",
     "description": "Slack wrapper API for Laravel 4",
+    "keywords": ["laravel", "slack", "sideclub"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Sideclub",
